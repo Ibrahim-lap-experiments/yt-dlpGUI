@@ -24,8 +24,8 @@ A simple cross-platform GUI wrapper for yt-dlp to download YouTube videos and au
   ```
 2. Install FFmpeg<br />
    Windows:<br />
-      A) Download from [FFmpeg](https://www.ffmpeg.org/)<br />
-      b) Add the bin folder to your system PATH<br />
+        A) Download from [FFmpeg](https://www.ffmpeg.org/)<br />
+        b) Add the bin folder to your system PATH<br />
     
    Linux (Debian/Ubuntu):
     ```
